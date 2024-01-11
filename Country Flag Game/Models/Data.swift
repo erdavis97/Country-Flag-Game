@@ -31,7 +31,7 @@ struct Data {
         Question(correctAnswer:
                 Answer(text: "Germany", isCorrect: true),
            incorrectAnswers: [
-                Answer(text: "Austria", isCorrect: true),
+            Answer(text: "Austria", isCorrect: false),
                 Answer(text: "Italy", isCorrect: false),
                 Answer(text: "Czech Republic", isCorrect: false)
            ])

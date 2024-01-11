@@ -31,7 +31,6 @@ struct ContentView: View {
             .ignoresSafeArea(.all)
             .background(.cyan)
         }
-        .padding()
     }
 }
 
