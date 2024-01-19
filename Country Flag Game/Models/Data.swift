@@ -90,123 +90,123 @@ struct Data {
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "China", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Russia", isCorrect: false),
+                    Answer(text: "Brazil", isCorrect: false),
+                    Answer(text: "Spain", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Greece", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Canada", isCorrect: false),
+                    Answer(text: "Switzerland", isCorrect: false),
+                    Answer(text: "Brazil", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Estonia", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Lithuania", isCorrect: false),
+                    Answer(text: "Bulgaria", isCorrect: false),
+                    Answer(text: "Russia", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "India", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Portugal", isCorrect: false),
+                    Answer(text: "Australia", isCorrect: false),
+                    Answer(text: "Mexico", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Israel", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Sweden", isCorrect: false),
+                    Answer(text: "Japan", isCorrect: false),
+                    Answer(text: "Honduras", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Italy", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "United States", isCorrect: false),
+                    Answer(text: "Serbia", isCorrect: false),
+                    Answer(text: "Vietnam", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Norway", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Sweden", isCorrect: false),
+                    Answer(text: "Denmark", isCorrect: false),
+                    Answer(text: "Finland", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Pakistan", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Tunisia", isCorrect: false),
+                    Answer(text: "Saudi Arabia", isCorrect: false),
+                    Answer(text: "Hungary", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Peru", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Singapore", isCorrect: false),
+                    Answer(text: "Oman", isCorrect: false),
+                    Answer(text: "Algeria", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Saudi Arabia", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Iran", isCorrect: false),
+                    Answer(text: "Russia", isCorrect: false),
+                    Answer(text: "Turkey", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "South Africa", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Nigeria", isCorrect: false),
+                    Answer(text: "Kenya", isCorrect: false),
+                    Answer(text: "Egypt", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Spain", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Mexico", isCorrect: false),
+                    Answer(text: "Brazil", isCorrect: false),
+                    Answer(text: "India", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Sweden", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Ukraine", isCorrect: false),
+                    Answer(text: "Denmark", isCorrect: false),
+                    Answer(text: "Cuba", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "Ukraine", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Poland", isCorrect: false),
+                    Answer(text: "Indonesia", isCorrect: false),
+                    Answer(text: "China", isCorrect: false)
                  ])
         ,
         Question(correctAnswer:
-                    Answer(text: "", isCorrect: true),
+                    Answer(text: "United States", isCorrect: true),
                     incorrectAnswers: [
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false),
-                    Answer(text: "", isCorrect: false)
+                    Answer(text: "Liberia", isCorrect: false),
+                    Answer(text: "Malaysia", isCorrect: false),
+                    Answer(text: "Canada", isCorrect: false)
                  ])
     ]
 }
